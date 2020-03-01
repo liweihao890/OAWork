@@ -70,4 +70,4 @@ Jenkins一定要添加全局变量，不然会报
 [解决方案](https://blog.csdn.net/u011296165/article/details/96110294)
 
 
-好难啊,ZAISHIYICI 
+好难啊,ZAISHIYICI DGHSATDFH
