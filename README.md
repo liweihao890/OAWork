@@ -40,7 +40,6 @@ yarn start or npm start
 yarn build or npm run build
 ```
 
-  
 
 ## License
 [MIT](https://opensource.org/licenses/MIT)
@@ -48,3 +47,17 @@ yarn build or npm run build
 
 
 
+
+## 使用Jenkins进行持续部署
+``` shell
+// 下载工作区npm依赖包
+npm install
+// 删除dist目录下的所有文件,dist目录即为当前jenkins工作区打包后的文件
+rm -rf ./dist/*
+// 执行打包命令
+npm run build
+// 删除服务器上/www/wwwroot/tomato_work/文件夹下的所有文件
+rm -rf /www/wwwroot/tomato_work/*
+// 把当前构建工作区dist目录里的文件 copy 到服务器/www/wwwroot/tomato_work/文件夹下
+cp -rf ./dist/* /www/wwwroot/tomato_work/
+```
