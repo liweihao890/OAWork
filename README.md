@@ -1,6 +1,7 @@
 ## tomato-work ![GitHub package.json version](https://img.shields.io/github/package-json/v/xjh22222228/tomato-work) ![GitHub](https://img.shields.io/github/license/xjh22222228/tomato-work)
-**个人事务管理系统**, 为自己精心打造的一个系统并开源分享。
+**个人事务管理系统**
 学习redux的项目，完全参考以下的大神进行学习。大家请移步。
+
 WEB：[tomato-work](https://github.com/xjh22222228/tomato-work)
 
 
@@ -39,8 +40,7 @@ yarn start or npm start
 yarn build or npm run build
 ```
 
-
-
+  
 
 ## License
 [MIT](https://opensource.org/licenses/MIT)
