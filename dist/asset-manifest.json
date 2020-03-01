@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "http://oa.liweihao.cn/static/css/main.d67a3eee.chunk.css",
+    "main.js": "http://oa.liweihao.cn/static/js/main.e84aa9d7.chunk.js",
+    "main.js.map": "http://oa.liweihao.cn/static/js/main.e84aa9d7.chunk.js.map",
+    "runtime-main.js": "http://oa.liweihao.cn/static/js/runtime-main.76f315b5.js",
+    "runtime-main.js.map": "http://oa.liweihao.cn/static/js/runtime-main.76f315b5.js.map",
+    "static/css/2.28240669.chunk.css": "http://oa.liweihao.cn/static/css/2.28240669.chunk.css",
+    "static/js/2.f1c08a1c.chunk.js": "http://oa.liweihao.cn/static/js/2.f1c08a1c.chunk.js",
+    "static/js/2.f1c08a1c.chunk.js.map": "http://oa.liweihao.cn/static/js/2.f1c08a1c.chunk.js.map",
+    "static/css/3.964f31f6.chunk.css": "http://oa.liweihao.cn/static/css/3.964f31f6.chunk.css",
+    "static/js/3.52d17043.chunk.js": "http://oa.liweihao.cn/static/js/3.52d17043.chunk.js",
+    "static/js/3.52d17043.chunk.js.map": "http://oa.liweihao.cn/static/js/3.52d17043.chunk.js.map",
+    "static/css/4.7336d25e.chunk.css": "http://oa.liweihao.cn/static/css/4.7336d25e.chunk.css",
+    "static/js/4.db3f9da5.chunk.js": "http://oa.liweihao.cn/static/js/4.db3f9da5.chunk.js",
+    "static/js/4.db3f9da5.chunk.js.map": "http://oa.liweihao.cn/static/js/4.db3f9da5.chunk.js.map",
+    "static/css/5.8cca546a.chunk.css": "http://oa.liweihao.cn/static/css/5.8cca546a.chunk.css",
+    "static/js/5.a85f0583.chunk.js": "http://oa.liweihao.cn/static/js/5.a85f0583.chunk.js",
+    "static/js/5.a85f0583.chunk.js.map": "http://oa.liweihao.cn/static/js/5.a85f0583.chunk.js.map",
+    "static/js/6.4588379a.chunk.js": "http://oa.liweihao.cn/static/js/6.4588379a.chunk.js",
+    "static/js/6.4588379a.chunk.js.map": "http://oa.liweihao.cn/static/js/6.4588379a.chunk.js.map",
+    "index.html": "http://oa.liweihao.cn/index.html",
+    "precache-manifest.624ede1b915d18d64bd4e75d7c9eeb57.js": "http://oa.liweihao.cn/precache-manifest.624ede1b915d18d64bd4e75d7c9eeb57.js",
+    "service-worker.js": "http://oa.liweihao.cn/service-worker.js",
+    "static/css/2.28240669.chunk.css.map": "http://oa.liweihao.cn/static/css/2.28240669.chunk.css.map",
+    "static/css/3.964f31f6.chunk.css.map": "http://oa.liweihao.cn/static/css/3.964f31f6.chunk.css.map",
+    "static/css/4.7336d25e.chunk.css.map": "http://oa.liweihao.cn/static/css/4.7336d25e.chunk.css.map",
+    "static/css/5.8cca546a.chunk.css.map": "http://oa.liweihao.cn/static/css/5.8cca546a.chunk.css.map",
+    "static/css/main.d67a3eee.chunk.css.map": "http://oa.liweihao.cn/static/css/main.d67a3eee.chunk.css.map",
+    "static/js/2.f1c08a1c.chunk.js.LICENSE": "http://oa.liweihao.cn/static/js/2.f1c08a1c.chunk.js.LICENSE",
+    "static/media/style.scss": "http://oa.liweihao.cn/static/media/bg.5825f033.svg",
+    "static/media/no-data.svg": "http://oa.liweihao.cn/static/media/no-data.ab7ce88c.svg",
+    "static/media/global.scss": "http://oa.liweihao.cn/static/media/tui-editor.30dd0f52.png",
+    "static/media/user-poster.png": "http://oa.liweihao.cn/static/media/user-poster.1f95f36b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76f315b5.js",
+    "static/css/2.28240669.chunk.css",
+    "static/js/2.f1c08a1c.chunk.js",
+    "static/css/main.d67a3eee.chunk.css",
+    "static/js/main.e84aa9d7.chunk.js"
+  ]
+}
