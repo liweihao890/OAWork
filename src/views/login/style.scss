@@ -1,0 +1,90 @@
+.login-page {
+  display: flex;
+  min-height: 100vh;
+  background: #f0f2f5 url("~@/assets/img/public/bg.svg") no-repeat center 110px;
+  background-size: 100%;
+  flex-direction: column;
+
+  .svg-wrapper {
+    z-index: 10001;
+    fill: #20a0ff;
+    color: #fff;
+    position: fixed;
+    top: -6px;
+    border: 0;
+    right: -6px;
+
+    .octo-arm {
+      transform-origin: 130px 106px;
+    }
+  }
+
+  .wrap {
+    flex: 1;
+    margin-bottom: 150px;
+    width: 320px;
+    align-self: center;
+    @include flex-center;
+  }
+
+  .ant-input-affix-wrapper:not(:nth-child(1)) {
+    margin-top: 20px;
+  }
+
+  .anticon {
+    color: #0000004d;
+  }
+
+  .logo-wrap {
+    margin-bottom: 20px;
+    text-align: center;
+
+    .logo {
+      width: 100px;
+      height: 100px;
+      -webkit-user-drag: none;
+    }
+
+    em {
+      font-size: 24px;
+      font-weight: bold;
+      color: #000;
+      margin-left: 15px;
+      vertical-align: middle;
+    }
+  }
+
+  .captcha {
+    display: block;
+    cursor: pointer;
+    height: 30px;
+    border-left: 1px solid #ccc;
+  }
+
+  .other-login {
+    margin-top: 15px;
+    display: flex;
+
+    .txt {
+      margin-right: 15px;
+      vertical-align: text-bottom;
+    }
+
+    i {
+      cursor: pointer;
+      transition: .1s linear;
+      font-size: 22px;
+      color: #ccc;
+
+      &:hover {
+        color: #000 !important;
+      }
+    }
+
+    .to-register {
+      flex: 1;
+      text-align: right;
+      color: $theme-color;
+    }
+  }
+}
