@@ -61,3 +61,6 @@ rm -rf /www/wwwroot/tomato_work/*
 // 把当前构建工作区dist目录里的文件 copy 到服务器/www/wwwroot/tomato_work/文件夹下
 cp -rf ./dist/* /www/wwwroot/tomato_work/
 ```
+
+## Jenkins配置
+[阿里云服务器配置Jenkins自动打包部署vue项目](https://juejin.im/post/5d944b55e51d4578414c43ac)
