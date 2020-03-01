@@ -64,3 +64,5 @@ cp -rf ./dist/* /www/wwwroot/tomato_work/
 
 ## Jenkins配置
 [阿里云服务器配置Jenkins自动打包部署vue项目](https://juejin.im/post/5d944b55e51d4578414c43ac)
+**注意点**：
+Jenkins一定要添加全局变量，不然会报错 `npm is not a command `
