@@ -7,7 +7,7 @@ WEB：[tomato-work](https://github.com/xjh22222228/tomato-work)
 
 
 ## Tech
-核心技术 React纯hooks/TypeScript/Redux/Antd...
+核心技术 React纯hooks/TypeScript/Redux/Antd/PWA
 ``` json
 "react": "^16.12.0",
 "react-dom": "^16.12.0",
