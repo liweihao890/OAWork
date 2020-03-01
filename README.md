@@ -67,4 +67,4 @@ cp -rf ./dist/* /www/wwwroot/tomato_work/
 **注意点**：
 Jenkins一定要添加全局变量，不然会报
 `npm is not a command `
-[解决方案]
+[解决方案](https://blog.csdn.net/u011296165/article/details/96110294)
